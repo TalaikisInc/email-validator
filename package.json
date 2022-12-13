@@ -25,7 +25,7 @@
     "acme-http-01-standalone": "^3.0.5",
     "email-deep-validator": "^3.3.0",
     "email-verify": "^0.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "greenlock": "^4.0.4",
     "greenlock-express": "^4.0.3",
     "le-challenge-fs": "^2.0.9",
